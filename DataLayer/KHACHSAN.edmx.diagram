@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4beb166134a1442ca779f9f6b7c44c82" Name="Diagram1" ZoomLevel="47">
+        <EntityTypeShape EntityType="KHACHSAN.tb_cty" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSAN.tb_KhachHang" Width="1.5" PointX="0.75" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSAN.tb_Phong" Width="1.5" PointX="2.5" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSAN.tb_Phong_ThietBi" Width="1.5" PointX="4.375" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSAN.tb_SanPham" Width="1.5" PointX="6.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSAN.tb_Tang" Width="1.5" PointX="4.375" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSAN.tb_Users" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSAN.tb_LoaiPhong" Width="1.5" PointX="2.5" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="KHACHSAN.tb_Func" Width="1.5" PointX="9.375" PointY="0.75" />
+        <EntityTypeShape EntityType="KHACHSAN.tb_ThietBi" Width="1.5" PointX="4.375" PointY="4.375" />
+        <EntityTypeShape EntityType="KHACHSAN.tb_DatPhong" Width="1.5" PointX="6.375" PointY="10.75" />
+        <EntityTypeShape EntityType="KHACHSAN.tb_Param" Width="1.5" PointX="9.375" PointY="4.75" />
+        <EntityTypeShape EntityType="KHACHSAN.tb_DatPhong_SanPham" Width="2.125" PointX="8.375" PointY="7.75" />
+        <EntityTypeShape EntityType="KHACHSAN.tb_DatPhong_CT" Width="1.5" PointX="3.375" PointY="10.75" />
+        <EntityTypeShape EntityType="KHACHSAN.tb_SYS_GROUP" Width="1.5" PointX="11.75" PointY="0.75" />
+        <EntityTypeShape EntityType="KHACHSAN.tb_SYS_RIGHT" Width="1.5" PointX="11.75" PointY="3.75" />
+        <EntityTypeShape EntityType="KHACHSAN.tb_SYS_RIGHT_REP" Width="2" PointX="11.75" PointY="6.75" />
+        <EntityTypeShape EntityType="KHACHSAN.tb_SYS_USER" Width="1.5" PointX="8.75" PointY="11.75" />
+        <EntityTypeShape EntityType="KHACHSAN.tb_dvi" Width="1.5" PointX="2.5" PointY="0.75" />
+        <EntityTypeShape EntityType="KHACHSAN.V_USER_NOTIN_GROUP" Width="1.875" PointX="11.375" PointY="9.75" />
+        <EntityTypeShape EntityType="KHACHSAN.V_USER_IN_GROUP" Width="2.25" PointX="11.375" PointY="13.75" />
+        <EntityTypeShape EntityType="KHACHSAN.V_FUNC_SYS_RIGHT" Width="1.5" PointX="14.375" PointY="0.75" />
+        <EntityTypeShape EntityType="KHACHSAN.tb_SYS_REPORT" Width="1.5" PointX="0.75" PointY="11.75" />
+        <EntityTypeShape EntityType="KHACHSAN.V__REP_SYS_RIGHT_REP" Width="1.5" PointX="3.375" PointY="14.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

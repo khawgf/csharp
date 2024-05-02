@@ -1,0 +1,12 @@
+D:\DACN\doan\QUANLYKHACHSAN\DataLayer\bin\Release\DataLayer.dll.config
+D:\DACN\doan\QUANLYKHACHSAN\DataLayer\bin\Release\DataLayer.dll
+D:\DACN\doan\QUANLYKHACHSAN\DataLayer\bin\Release\DataLayer.pdb
+D:\DACN\doan\QUANLYKHACHSAN\DataLayer\bin\Release\EntityFramework.dll
+D:\DACN\doan\QUANLYKHACHSAN\DataLayer\bin\Release\EntityFramework.SqlServer.dll
+D:\DACN\doan\QUANLYKHACHSAN\DataLayer\bin\Release\EntityFramework.xml
+D:\DACN\doan\QUANLYKHACHSAN\DataLayer\bin\Release\EntityFramework.SqlServer.xml
+D:\DACN\doan\QUANLYKHACHSAN\DataLayer\obj\Release\DataLayer.csproj.AssemblyReference.cache
+D:\DACN\doan\QUANLYKHACHSAN\DataLayer\obj\Release\DataLayer.csproj.CoreCompileInputs.cache
+D:\DACN\doan\QUANLYKHACHSAN\DataLayer\obj\Release\DataLayer.csproj.CopyComplete
+D:\DACN\doan\QUANLYKHACHSAN\DataLayer\obj\Release\DataLayer.dll
+D:\DACN\doan\QUANLYKHACHSAN\DataLayer\obj\Release\DataLayer.pdb

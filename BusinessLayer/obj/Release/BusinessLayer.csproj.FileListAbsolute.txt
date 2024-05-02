@@ -1,0 +1,15 @@
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\bin\Release\BusinessLayer.dll.config
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\bin\Release\BusinessLayer.dll
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\bin\Release\BusinessLayer.pdb
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\bin\Release\DataLayer.dll
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\bin\Release\EntityFramework.dll
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\bin\Release\EntityFramework.SqlServer.dll
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\bin\Release\DataLayer.pdb
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\bin\Release\DataLayer.dll.config
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\bin\Release\EntityFramework.xml
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\bin\Release\EntityFramework.SqlServer.xml
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\obj\Release\BusinessLayer.csproj.AssemblyReference.cache
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\obj\Release\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\obj\Release\BusinessLayer.csproj.CopyComplete
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\obj\Release\BusinessLayer.dll
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\obj\Release\BusinessLayer.pdb

@@ -1,0 +1,15 @@
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\bin\Debug\DataLayer.dll
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\bin\Debug\DataLayer.dll.config
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\DACN\doan\QUANLYKHACHSAN\BusinessLayer\obj\Debug\BusinessLayer.pdb
